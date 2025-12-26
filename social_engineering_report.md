@@ -1,10 +1,10 @@
-Task 5: Social Engineering Attacks Research Report
+## Task 5: Social Engineering Attacks Research Report
 
-Overview
+### Overview
 
 I have been researching how human psychology is often the weakest link in cybersecurity. While we often focus on firewalls and code, social engineering is a technique where attackers manipulate individuals into giving up confidential information. This report explores common methods and how we can protect ourselves.
 
-Common Social Engineering Techniques
+ ### Common Social Engineering Techniques
 
 Through my research, I have identified three primary methods used by attackers:
 
@@ -14,11 +14,11 @@ Through my research, I have identified three primary methods used by attackers:
 
 3.Baiting: This involves a physical or digital. An attacker might leave a malware-infected USB drive in a public place, hoping a curious person will plug it into their computer.
 
-Real-World Impact & Case Studies
+### Real-World Impact & Case Studies
 
 One significant case was the 2020 Twitter hack. The attackers didn't use a software; instead, they used phone-based social engineering to trick employees into giving up internal tool access. This shows that even the biggest tech companies are vulnerable if their staff isn't properly trained.
 
-My Recommendations for Prevention
+### My Recommendations for Prevention
 
 Based on the threats identified, I believe organizations should follow these steps to stay safe:
 
