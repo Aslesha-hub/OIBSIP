@@ -4,7 +4,7 @@
 
 I have analyzed several critical network threats that organizations face today. Understanding these "invisible" dangers is the first step in building a strong defense system.
 
-###1. Denial-of-Service (DoS) Attacks
+### 1. Denial-of-Service (DoS) Attacks
 
 How it works: An attacker sends so much fake traffic to a website or server that it crashes or becomes too slow to use.
 
