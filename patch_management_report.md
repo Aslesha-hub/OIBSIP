@@ -1,10 +1,10 @@
-Research Report on the Importance of Patch Management
+## Task6 Research Report on the Importance of Patch Management
 
-1) Introduction to Patch Management
+### Introduction to Patch Management
 
 I have explored how software vulnerabilities are discovered every day. Patch management is the systematic process of acquiring, testing, and installing "patches" (code updates) to fix these vulnerabilities and keep systems secure. It is essentially a race between the software developers fixing a hole and hackers trying to exploit it. 
 
-2) Why is Patching So Significant?
+### Why is Patching So Significant?
 
 Patch management is a cornerstone of cybersecurity for several reasons: 
 
@@ -14,7 +14,7 @@ Patch management is a cornerstone of cybersecurity for several reasons:
 
 3.Compliance: Many industries require companies to keep their software updated by law to protect customer data. 
 
-3) The Consequences of Failing to Patch
+### The Consequences of Failing to Patch
 
 If an organization ignores updates, they face high risks: 
 
@@ -24,7 +24,7 @@ If an organization ignores updates, they face high risks:
 
 3.Reputation Loss: Customers lose trust in a company that gets hacked because of a simple missed update. 
 
-4) Best Practices for an Effective Strategy
+### Best Practices for an Effective Strategy
 
 Based on my research, a professional security team should follow these steps: 
 
@@ -36,6 +36,6 @@ Based on my research, a professional security team should follow these steps:
 
 4.Automation: Use automated tools to deploy patches quickly across the entire network. 
 
-5) Conclusion
+### Conclusion
    
 I have learned that patch management is not just a technical task, but a vital habit for any organization. By staying up to date, we significantly reduce the "attack surface" and keep our digital environment safe from known threats.
